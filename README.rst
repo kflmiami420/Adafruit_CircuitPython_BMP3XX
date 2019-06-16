@@ -26,6 +26,19 @@ Please ensure all dependencies are available on the CircuitPython filesystem.
 This is easily achieved by downloading
 `the Adafruit library and driver bundle <https://github.com/adafruit/Adafruit_CircuitPython_Bundle>`_.
 
+* sudo apt-get install python3-pip
+* sudo pip3 install --upgrade setuptools
+* sudo pip3 install RPI.GPIO
+* sudo pip3 install adafruit-blinka
+
+git clone https://github.com/adafruit/Adafruit_CircuitPython_BMP3XX.git
+*
+*
+
+
+
+
+
 Installing from PyPI
 --------------------
 
